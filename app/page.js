@@ -810,7 +810,7 @@ const AzadiProductionApp = () => {
             {/* Quick Share Section */}
             <div style={{marginTop: '1rem', padding: '0.75rem', background: 'rgba(255,255,255,0.1)', borderRadius: '0.5rem', border: '1px dashed rgba(251,146,60,0.3)'}}>
               <h4 style={{fontSize: '0.875rem', fontWeight: '600', color: '#fb923c', margin: '0 0 0.5rem 0', textAlign: 'center'}}>
-                🚀 Share Your App!
+                
               </h4>
               <div style={{display: 'flex', justifyContent: 'center', gap: '0.5rem', flexWrap: 'wrap'}}>
                 <button 
